@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 AnjoCaido-Launcher Unstable
 ==================
 
@@ -9,4 +10,8 @@ AnjoCaido-лаунчер для minecraft обновлённый Sinrel Group
 # mcl
 Customisation of MCSP
 Original source: https://github.com/Sinrel/AnjoCaido-Launcher
+>>>>>>> origin/master
+=======
+#MCL
+Customisation of https://github.com/Sinrel/AnjoCaido-Launcher
 >>>>>>> origin/master
