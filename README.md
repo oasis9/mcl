@@ -1,4 +1,2 @@
-# MCL
-Customisation of MCSP
-
-Original source: https://github.com/Sinrel/AnjoCaido-Launcher
+#MCL
+Customisation of https://github.com/Sinrel/AnjoCaido-Launcher
